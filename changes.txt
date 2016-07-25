@@ -1,0 +1,62 @@
+Version 1.3.3 (Released on 17 Feb 2015)
+- Title bug fixed
+- Map and chart location swapped on dashboard
+
+Version 1.3.2 (Released on 22 Jan 2015)
+- Enrolment graph bug fixed
+
+Version 1.3.1 (Released on 22 Nov 2014)
+- New UI
+- Dashboard
+- Student/staff custom fields
+- Class attendance bug fixed
+- Identification no removed, OpenEMIS ID introduced
+- Navigation bar bug fixed
+- Multi-session attendance bug fixed
+- School attendance by lesson bug fixed
+- Login page bug fixed
+- Missing headers for attendance staff fixed
+- Breadcrumb bug fixed
+
+Version 1.2.2 (Released on 6 Nov 2014)
+- Delete event bugs fixed
+- Add event bug fixed
+- Floating point number used for mark
+- Installer bug fixed
+- Create/Export Reports
+- Plural labels used for menu
+- Profile picture bug fixed
+- Student result header title bug fixed
+- Student results information bug fixed
+- General tab bug fixed
+- Guardian module bugs fixed
+- Login redirection bug fixed
+- PDF plugin removed to reduce zip file size
+
+Version 1.2.1 (Released on 16 Oct 2014)
+- Student report cards
+- Identities module
+- Nationality and date of birth fields introduced
+- Changes to student module
+- Changes to main module
+- National assessment result retrieval bug fixed
+- School name field now mandatory
+- Date picker year bug fixed
+- Security roles introduced
+- Finance module
+- Student display bug fixed
+- National assessments renamed to Assessments
+- Timetable header bug fixed
+- Administrator module
+- Students tab in guardians module
+- Rename administration module to settings module
+- Academic start/end date bug fixed
+- Settings breadcrumb bug fixed
+
+Version 1.1.2 (Released on 4 Sept 2014)
+- Labels and icons fixed on contact page
+- Language selector dropdown bug fixed
+- Login for new users fixed
+- Students can no longer be added into classes without education grades
+- Teacher display bug fixed
+- Student attendance bug fixed

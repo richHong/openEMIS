@@ -1,0 +1,9 @@
+2015-01-22 13:31:46 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /openemis-school/js/jquery.js
+Stack Trace:
+#0 /web/openemis-school/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}

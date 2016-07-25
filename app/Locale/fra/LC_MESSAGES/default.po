@@ -1,0 +1,1413 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: OpenEMIS School (French)\n"
+"POT-Creation-Date: 2014-05-27 11:04+0800\n"
+"PO-Revision-Date: 2014-05-27 11:04+0800\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.4\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Poedit-SearchPath-0: ../..\n"
+
+#: ../../translate.php:2
+msgid "File size should not be larger than 2MB."
+msgstr "La taille du fichier ne doit pas être supérieure à 2 méga-octets"
+
+#: ../../translate.php:3
+msgid "Academic"
+msgstr "académique"
+
+#: ../../translate.php:4
+msgid "Academic Details"
+msgstr "Détails universitaires"
+
+#: ../../translate.php:5
+msgid "Action"
+msgstr "action"
+
+#: ../../translate.php:6
+msgid "Active"
+msgstr "actif"
+
+#: ../../translate.php:7
+msgid "Add"
+msgstr "ajouter"
+
+#: ../../translate.php:8
+msgid "Add New Entry"
+msgstr "Ajouter une nouvelle entrée"
+
+#: ../../translate.php:9
+msgid "Address"
+msgstr "adresse"
+
+#: ../../translate.php:10
+msgid "All Years"
+msgstr "toutes les années"
+
+#: ../../translate.php:11
+msgid "April"
+msgstr "avril"
+
+#: ../../translate.php:12
+msgid "Attachment"
+msgstr "fixation"
+
+#: ../../translate.php:13
+msgid "Attachments"
+msgstr "Annexes"
+
+#: ../../translate.php:14 ../../translate.php:179
+msgid "Attendance"
+msgstr "présence"
+
+#: ../../translate.php:15
+msgid "Attendance by Day"
+msgstr "Participation par jour"
+
+#: ../../translate.php:16
+msgid "Attendance by Lesson"
+msgstr "Participation de la leçon"
+
+#: ../../translate.php:17
+msgid "August"
+msgstr "août"
+
+#: ../../translate.php:18
+msgid "Back"
+msgstr "arrière"
+
+#: ../../translate.php:19
+msgid "Behaviour"
+msgstr "Comportement"
+
+#: ../../translate.php:20
+msgid "Behaviour Category"
+msgstr "Comportement Catégorie"
+
+#: ../../translate.php:21
+msgid "Cancel"
+msgstr "annuler"
+
+#: ../../translate.php:22
+msgid "Categories"
+msgstr "catégories"
+
+#: ../../translate.php:23
+msgid "Category"
+msgstr "catégorie"
+
+#: ../../translate.php:24
+msgid "Change"
+msgstr "changement"
+
+#: ../../translate.php:25
+msgid "Change Password"
+msgstr "changer mot de passe"
+
+#: ../../translate.php:26
+msgid "Chinese"
+msgstr "chinois"
+
+#: ../../translate.php:27 ../../translate.php:251
+msgid "Classes"
+msgstr "cours"
+
+#: ../../translate.php:28
+msgid "Close"
+msgstr "proche"
+
+#: ../../translate.php:29
+msgid "Code"
+msgstr "code"
+
+#: ../../translate.php:30
+msgid "Comment"
+msgstr "commentaire"
+
+#: ../../translate.php:31
+msgid "Contact"
+msgstr "Contacter"
+
+#: ../../translate.php:32
+msgid "Contact Person"
+msgstr "personne à contacter"
+
+#: ../../translate.php:33
+msgid "Created By"
+msgstr "Crée par"
+
+#: ../../translate.php:34
+msgid "Created On"
+msgstr "créé le"
+
+#: ../../translate.php:35
+msgid "Date"
+msgstr "date"
+
+#: ../../translate.php:36
+msgid "Date Closed"
+msgstr "Date de fermeture"
+
+#: ../../translate.php:37
+msgid "Date Of Behaviour"
+msgstr "Date de comportement"
+
+#: ../../translate.php:38
+msgid "Date Opened"
+msgstr "Date d'ouverture"
+
+#: ../../translate.php:39
+msgid "Date Uploaded"
+msgstr "Date d'envoi"
+
+#: ../../translate.php:40
+msgid "Day"
+msgstr "jour"
+
+#: ../../translate.php:41
+msgid "December"
+msgstr "décembre"
+
+#: ../../translate.php:42 ../../translate.php:43
+msgid "Delete"
+msgstr "effacer"
+
+#: ../../translate.php:44
+msgid ""
+"You are able to delete this record in the database. All related information "
+"of this record will also be deleted. Are you sure you want to do this?"
+msgstr ""
+"Vous êtes en mesure de supprimer cet enregistrement dans la base de données. "
+"Toutes les informations relatives de ce dossier seront également supprimés. "
+"Etes-vous sûr de vouloir faire cela?"
+
+#: ../../translate.php:45
+msgid "Details"
+msgstr "détails"
+
+#: ../../translate.php:46
+msgid "Description"
+msgstr "description"
+
+#: ../../translate.php:47
+msgid "Duration"
+msgstr "durée"
+
+#: ../../translate.php:48
+msgid "Edit"
+msgstr "Modifier"
+
+#: ../../translate.php:49
+msgid "Email"
+msgstr "email"
+
+#: ../../translate.php:50
+msgid "End Date"
+msgstr "date de fin"
+
+#: ../../translate.php:51
+msgid "End Time"
+msgstr "Heure de fin"
+
+#: ../../translate.php:52
+msgid "English"
+msgstr "Anglais"
+
+#: ../../translate.php:53
+msgid "Fax"
+msgstr "fax"
+
+#: ../../translate.php:54
+msgid "February"
+msgstr "février"
+
+#: ../../translate.php:55
+msgid "Female"
+msgstr "femelle"
+
+#: ../../translate.php:56
+msgid "File"
+msgstr "dossier"
+
+#: ../../translate.php:57
+msgid "File Name"
+msgstr "Nom du fichier"
+
+#: ../../translate.php:58
+msgid "File Type"
+msgstr "Type de fichier"
+
+#: ../../translate.php:59
+msgid "First Name"
+msgstr "Prénom"
+
+#: ../../translate.php:60
+msgid "Fri"
+msgstr "vendredi"
+
+#: ../../translate.php:61
+msgid "Friday"
+msgstr "vendredi"
+
+#: ../../translate.php:62
+msgid "Gender"
+msgstr "inconnu"
+
+#: ../../translate.php:63
+msgid "General"
+msgstr "général"
+
+#: ../../translate.php:64
+msgid "Grade"
+msgstr "grade"
+
+#: ../../translate.php:65
+msgid "Grades"
+msgstr "grades"
+
+#: ../../translate.php:66
+msgid "Grading"
+msgstr "Condition"
+
+#: ../../translate.php:67 ../../translate.php:206
+msgid "Guardian"
+msgstr "tuteur"
+
+#: ../../translate.php:68 ../../translate.php:207
+msgid "Guardians"
+msgstr "gardiens"
+
+#: ../../translate.php:69
+msgid "Identification"
+msgstr "identification"
+
+#: ../../translate.php:70
+msgid "Identification No"
+msgstr "N ° d'identification"
+
+#: ../../translate.php:71
+msgid "Identification No or Name is not found"
+msgstr "N ° d'identification ou le nom n'est pas trouvé"
+
+#: ../../translate.php:72
+msgid "Identification No, First Name or Last Name"
+msgstr "N ° d'identification, le prénom ou le nom"
+
+#: ../../translate.php:73
+msgid "Identification No or Name"
+msgstr "N ° d'identification ou nom"
+
+#: ../../translate.php:74
+msgid "Inactive"
+msgstr "inactif"
+
+#: ../../translate.php:75
+msgid "Infrastructure"
+msgstr "infrastructure"
+
+#: ../../translate.php:76
+msgid "January"
+msgstr "janvier"
+
+#: ../../translate.php:77
+msgid "July"
+msgstr "juillet"
+
+#: ../../translate.php:78
+msgid "June"
+msgstr "juin"
+
+#: ../../translate.php:79
+msgid "Last Modified By"
+msgstr "Dernière modification par"
+
+#: ../../translate.php:80
+msgid "Last Modified On"
+msgstr "Dernière modification de"
+
+#: ../../translate.php:81
+msgid "Last Name"
+msgstr "Nom"
+
+#: ../../translate.php:82
+msgid "Location"
+msgstr "emplacement"
+
+#: ../../translate.php:83
+msgid "Logout"
+msgstr "Déconnexion"
+
+#: ../../translate.php:84
+msgid "Malay"
+msgstr "malais"
+
+#: ../../translate.php:85
+msgid "Male"
+msgstr "mâle"
+
+#: ../../translate.php:86
+msgid "March"
+msgstr "mars"
+
+#: ../../translate.php:87
+msgid "Marks"
+msgstr "marques"
+
+#: ../../translate.php:88
+msgid "Maths"
+msgstr "math"
+
+#: ../../translate.php:89
+msgid "Max"
+msgstr "max"
+
+#: ../../translate.php:90
+msgid "Maximum"
+msgstr "maximum"
+
+#: ../../translate.php:91
+msgid "May"
+msgstr "mai"
+
+#: ../../translate.php:92
+msgid "Min"
+msgstr "sur"
+
+#: ../../translate.php:93
+msgid "Minimum"
+msgstr "minimum"
+
+#: ../../translate.php:94
+msgid "Modified By"
+msgstr "modifié par"
+
+#: ../../translate.php:95
+msgid "Modified On"
+msgstr "modifié le"
+
+#: ../../translate.php:96
+msgid "Mon"
+msgstr "Mon"
+
+#: ../../translate.php:97
+msgid "Monday"
+msgstr "lundi"
+
+#: ../../translate.php:98
+msgid "Month"
+msgstr "mois"
+
+#: ../../translate.php:99
+msgid "My Account"
+msgstr "mon compte"
+
+#: ../../translate.php:100
+msgid "Name"
+msgstr "nom"
+
+#: ../../translate.php:101
+msgid "New"
+msgstr "nouveau"
+
+#: ../../translate.php:102
+msgid "No"
+msgstr "pas"
+
+#: ../../translate.php:103
+msgid "No Option"
+msgstr "aucune option"
+
+#: ../../translate.php:104
+msgid "not specified"
+msgstr "non spécifié"
+
+#: ../../translate.php:105
+msgid "November"
+msgstr "novembre"
+
+#: ../../translate.php:106
+msgid "October"
+msgstr "octobre"
+
+#: ../../translate.php:107
+msgid "Option"
+msgstr "option"
+
+#: ../../translate.php:108
+msgid "Option Not Found"
+msgstr "Option Introuvable"
+
+#: ../../translate.php:109
+msgid "Order"
+msgstr "ordre"
+
+#: ../../translate.php:110
+msgid "Password"
+msgstr "mot de passe"
+
+#: ../../translate.php:111
+msgid "Period"
+msgstr "période"
+
+#: ../../translate.php:112
+msgid "Physics"
+msgstr "physique"
+
+#: ../../translate.php:113
+msgid "Postal Code"
+msgstr "code postal"
+
+#: ../../translate.php:114
+msgid "Print"
+msgstr "Imprimer"
+
+#: ../../translate.php:115
+msgid "Profile Image"
+msgstr "image de profil"
+
+#: ../../translate.php:116
+msgid "Programme"
+msgstr "برنامج"
+
+#: ../../translate.php:117
+msgid "Programmes"
+msgstr "برامج"
+
+#: ../../translate.php:118
+msgid "Relationship"
+msgstr "relations"
+
+#: ../../translate.php:119
+msgid "Relationship Categories"
+msgstr "relation Catégories"
+
+#: ../../translate.php:120
+msgid "Relationship Category"
+msgstr "relation Catégorie"
+
+#: ../../translate.php:121
+msgid "Remark"
+msgstr "remarque"
+
+#: ../../translate.php:122
+msgid "Remarks"
+msgstr "remarques"
+
+#: ../../translate.php:123
+msgid "Remove"
+msgstr "supprimer"
+
+#: ../../translate.php:124
+msgid "Reorder"
+msgstr "réorganiser"
+
+#: ../../translate.php:125
+msgid "Result"
+msgstr "résultat"
+
+#: ../../translate.php:126 ../../translate.php:241
+msgid "Results"
+msgstr "résultats"
+
+#: ../../translate.php:127
+msgid "Sat"
+msgstr "Sam"
+
+#: ../../translate.php:128
+msgid "Saturday"
+msgstr "samedi"
+
+#: ../../translate.php:129
+msgid "Save"
+msgstr "sauver"
+
+#: ../../translate.php:130
+msgid "Save as PDF"
+msgstr "Enregistrer au format PDF"
+
+#: ../../translate.php:131
+msgid "School Days"
+msgstr "Jours d'école"
+
+#: ../../translate.php:132
+msgid "Search"
+msgstr "recherche"
+
+#: ../../translate.php:133
+msgid "Search Results"
+msgstr "Résultats de la recherche"
+
+#: ../../translate.php:134
+msgid "Select"
+msgstr "sélectionner"
+
+#: ../../translate.php:135
+msgid "Select File"
+msgstr "Sélectionnez Fichier"
+
+#: ../../translate.php:136
+msgid "September"
+msgstr "septembre"
+
+#: ../../translate.php:137
+msgid "Short Form"
+msgstr "Forme Courte"
+
+#: ../../translate.php:138
+msgid "Start Date"
+msgstr "date de début"
+
+#: ../../translate.php:139
+msgid "Start Time"
+msgstr "Heure de début"
+
+#: ../../translate.php:140
+msgid "Status"
+msgstr "statut"
+
+#: ../../translate.php:141 ../../translate.php:248
+msgid "Subject"
+msgstr "sujet"
+
+#: ../../translate.php:142 ../../translate.php:249
+msgid "Subjects"
+msgstr "sujets"
+
+#: ../../translate.php:143
+msgid "Sun"
+msgstr "Soleil"
+
+#: ../../translate.php:144
+msgid "Sunday"
+msgstr "dimanche"
+
+#: ../../translate.php:145
+msgid "Teacher"
+msgstr "professeur"
+
+#: ../../translate.php:146
+msgid "Teachers"
+msgstr "enseignants"
+
+#: ../../translate.php:147
+msgid "Telephone"
+msgstr "téléphone"
+
+#: ../../translate.php:148
+msgid "Thur"
+msgstr "jeu."
+
+#: ../../translate.php:149
+msgid "Thursday"
+msgstr "jeudi"
+
+#: ../../translate.php:150
+msgid "Time"
+msgstr "temps"
+
+#: ../../translate.php:151
+msgid "Time Of Behaviour"
+msgstr "Temps de comportement"
+
+#: ../../translate.php:152
+msgid "Timetable"
+msgstr "calendrier"
+
+#: ../../translate.php:153
+msgid "Title"
+msgstr "titre"
+
+#: ../../translate.php:154
+msgid "Today"
+msgstr "aujourd'hui"
+
+#: ../../translate.php:155
+msgid "Tue"
+msgstr "Mar"
+
+#: ../../translate.php:156
+msgid "Tuesday"
+msgstr "mardi"
+
+#: ../../translate.php:157
+msgid "Type"
+msgstr "type"
+
+#: ../../translate.php:158
+msgid "Types"
+msgstr "types"
+
+#: ../../translate.php:159
+msgid "Username"
+msgstr "Nom d'utilisateur"
+
+#: ../../translate.php:160
+msgid "Value"
+msgstr "valeur"
+
+#: ../../translate.php:161
+msgid "View"
+msgstr "Voir"
+
+#: ../../translate.php:162
+msgid "Wed"
+msgstr "Mer"
+
+#: ../../translate.php:163
+msgid "Wednesday"
+msgstr "mercredi"
+
+#: ../../translate.php:164
+msgid "Year"
+msgstr "année"
+
+#: ../../translate.php:165
+msgid "Years"
+msgstr "ans"
+
+#: ../../translate.php:166
+msgid "Add Event"
+msgstr "Ajouter un événement"
+
+#: ../../translate.php:167
+msgid "Class Event"
+msgstr "classe d'événements"
+
+#: ../../translate.php:168
+msgid "List of Events"
+msgstr "Liste des événements"
+
+#: ../../translate.php:169
+msgid "School Event"
+msgstr "L'événement de l'école"
+
+#: ../../translate.php:170
+msgid "Event"
+msgstr "événement"
+
+#: ../../translate.php:171
+msgid "Events"
+msgstr "événements"
+
+#: ../../translate.php:172 ../../translate.php:175
+msgid "Add Student"
+msgstr "Ajouter aux étudiants"
+
+#: ../../translate.php:173
+msgid "Add Academic Progress"
+msgstr "Ajouter progrès académique"
+
+#: ../../translate.php:174
+msgid "Academic Progress"
+msgstr "Les progrès académique"
+
+#: ../../translate.php:176
+msgid "All Students"
+msgstr "tous les étudiants"
+
+#: ../../translate.php:177
+msgid "Alumni"
+msgstr "Anciens"
+
+#: ../../translate.php:178
+msgid "Assessment Result"
+msgstr "Résultat de l'évaluation"
+
+#: ../../translate.php:180
+msgid "Current Student"
+msgstr "étudiant actuel"
+
+#: ../../translate.php:181
+msgid "Day Attendance"
+msgstr "Fréquentation Jour"
+
+#: ../../translate.php:182
+msgid "Drop Out"
+msgstr "tomber"
+
+#: ../../translate.php:183
+msgid "Graduate"
+msgstr "diplômé"
+
+#: ../../translate.php:184
+msgid "Last Login"
+msgstr "dernière connexion"
+
+#: ../../translate.php:185
+msgid "Lesson Attendance"
+msgstr "leçon de présence"
+
+#: ../../translate.php:186
+msgid "Student No"
+msgstr "Numéro d'étudiant"
+
+#: ../../translate.php:187
+msgid "Pass Student"
+msgstr "Passez étudiants"
+
+#: ../../translate.php:188
+msgid "Progress Date"
+msgstr "date de progrès"
+
+#: ../../translate.php:189
+msgid "Result Details"
+msgstr "Détails de résultat"
+
+#: ../../translate.php:190
+msgid "Student"
+msgstr "étudiant"
+
+#: ../../translate.php:191
+msgid "Student State"
+msgstr "Etat de l'étudiant"
+
+#: ../../translate.php:192
+msgid "Student Status"
+msgstr "Statut d'étudiant"
+
+#: ../../translate.php:193
+msgid "Students"
+msgstr "étudiants"
+
+#: ../../translate.php:194
+msgid "Add Staff"
+msgstr "Ajouter personnel"
+
+#: ../../translate.php:195
+msgid "All Staff"
+msgstr "tout le personnel"
+
+#: ../../translate.php:196
+msgid "Staff Category"
+msgstr "Catégorie de personnel"
+
+#: ../../translate.php:197
+msgid "Employment"
+msgstr "emploi"
+
+#: ../../translate.php:198
+msgid "Non Teaching"
+msgstr "non enseignant"
+
+#: ../../translate.php:199
+msgid "My Profile"
+msgstr "mon profil"
+
+#: ../../translate.php:200
+msgid "Staff No"
+msgstr "Nombre de personnel"
+
+#: ../../translate.php:201
+msgid "Staff Status"
+msgstr "Statut du personnel"
+
+#: ../../translate.php:202
+msgid "Teaching"
+msgstr "enseignement"
+
+#: ../../translate.php:203
+msgid "Staff"
+msgstr "personnel"
+
+#: ../../translate.php:204
+msgid "Add Guardian"
+msgstr "Ajouter Gardien"
+
+#: ../../translate.php:205
+msgid "Search Guardians"
+msgstr "Recherche Gardiens"
+
+#: ../../translate.php:208
+msgid "Add Class"
+msgstr "Ajouter une classe"
+
+#: ../../translate.php:209
+msgid "Add Class Assignment"
+msgstr "Ajouter une classe Affectation"
+
+#: ../../translate.php:210
+msgid "Add Lesson"
+msgstr "Ajouter leçon"
+
+#: ../../translate.php:211
+msgid "Add National Assignment"
+msgstr "Ajouter Affectation nationale"
+
+#: ../../translate.php:212
+msgid "Add Timetable"
+msgstr "Ajouter horaire"
+
+#: ../../translate.php:213
+msgid "All Subjects"
+msgstr "tous les sujets"
+
+#: ../../translate.php:214
+msgid "All Teachers"
+msgstr "tous les enseignants"
+
+#: ../../translate.php:215
+msgid "Class Assignments"
+msgstr "Missions de classe"
+
+#: ../../translate.php:216
+msgid "Attendance Types"
+msgstr "Types de présence"
+
+#: ../../translate.php:217 ../../translate.php:246
+msgid "Class"
+msgstr "classe"
+
+#: ../../translate.php:218
+msgid "Class Daily Attendance"
+msgstr "Classe présences quotidiennes"
+
+#: ../../translate.php:219
+msgid "Edit Lesson"
+msgstr "Modifier la leçon"
+
+#: ../../translate.php:220
+msgid "Edit Timetable"
+msgstr "Modifier l'horaire"
+
+#: ../../translate.php:221
+msgid "Education Grade"
+msgstr "e année"
+
+#: ../../translate.php:222
+msgid "Education Grades"
+msgstr "Les qualités de l'éducation"
+
+#: ../../translate.php:223
+msgid "Education Grade Code"
+msgstr "Education code grade"
+
+#: ../../translate.php:224
+msgid "Education Grades - Subjects"
+msgstr "Éducation grades - Sujets"
+
+#: ../../translate.php:225
+msgid "Education Grade Subject"
+msgstr "Éducation année Objet"
+
+#: ../../translate.php:226
+msgid "Education Grade Subjects"
+msgstr "Education catégorie Sujets"
+
+#: ../../translate.php:227
+msgid "Education Subject"
+msgstr "Education Sujet"
+
+#: ../../translate.php:228 ../../translate.php:261
+msgid "Education Subjects"
+msgstr "Education Sujets"
+
+#: ../../translate.php:229
+msgid "Education Subject Code"
+msgstr "Education Sujet code"
+
+#: ../../translate.php:230
+msgid "Employment Types"
+msgstr "Types d'emploi"
+
+#: ../../translate.php:231
+msgid "Grade(s)"
+msgstr "Grade(s)"
+
+#: ../../translate.php:232
+msgid "Lesson"
+msgstr "leçon"
+
+#: ../../translate.php:233
+msgid "Lessons"
+msgstr "leçons"
+
+#: ../../translate.php:234
+msgid "Lesson Date"
+msgstr "leçon date"
+
+#: ../../translate.php:235
+msgid "Lesson From"
+msgstr "leçon De"
+
+#: ../../translate.php:236
+msgid "Lesson Status"
+msgstr "leçon Etat"
+
+#: ../../translate.php:237
+msgid "Lesson Time"
+msgstr "leçon Temps"
+
+#: ../../translate.php:238
+msgid "Lesson To"
+msgstr "leçon Pour"
+
+#: ../../translate.php:239
+msgid "List of Classes"
+msgstr "Liste des classes"
+
+#: ../../translate.php:240
+msgid "Programme - Grades"
+msgstr "Programme - Grades"
+
+#: ../../translate.php:242
+msgid "Room"
+msgstr "chambre"
+
+#: ../../translate.php:243
+msgid "School Year"
+msgstr "Année scolaire"
+
+#: ../../translate.php:244 ../../translate.php:307 ../../translate.php:383
+msgid "Please select a valid subject"
+msgstr "S'il vous plaît sélectionner un sujet valide"
+
+#: ../../translate.php:245
+msgid "Select multiple grades by holding \"Shift\" key."
+msgstr "Sélectionner plusieurs notes en tenant la touche \"Shift\""
+
+#: ../../translate.php:247
+msgid "List of students contact information"
+msgstr "Liste des étudiants des informations de contact"
+
+#: ../../translate.php:250
+msgid "List of teachers contact information"
+msgstr "Liste des enseignants coordonnées"
+
+#: ../../translate.php:252
+msgid "Total Seats"
+msgstr "Nombre de sièges"
+
+#: ../../translate.php:253
+msgid "Weighting"
+msgstr "pondération"
+
+#: ../../translate.php:254 ../../translate.php:268
+msgid "Administration"
+msgstr "administration"
+
+#: ../../translate.php:255
+msgid "Add User"
+msgstr "Ajouter un utilisateur"
+
+#: ../../translate.php:256
+msgid "Assessment"
+msgstr "évaluation"
+
+#: ../../translate.php:257
+msgid "Assessment Items"
+msgstr "évaluation Articles"
+
+#: ../../translate.php:258
+msgid "Education Programme"
+msgstr "Programme de l'éducation"
+
+#: ../../translate.php:259
+msgid "Education Programmes"
+msgstr "Programmes d'éducation"
+
+#: ../../translate.php:260
+msgid "Education Structure"
+msgstr "éducation Structure"
+
+#: ../../translate.php:262
+msgid "Field Options"
+msgstr "Options terrain"
+
+#: ../../translate.php:263
+msgid "List of Users"
+msgstr "Liste des utilisateurs"
+
+#: ../../translate.php:264
+msgid "National Assessment"
+msgstr "évaluation nationale"
+
+#: ../../translate.php:265
+msgid "National Assessments"
+msgstr "évaluations nationales"
+
+#: ../../translate.php:266
+msgid "Result Types"
+msgstr "Types de résultats"
+
+#: ../../translate.php:267
+msgid "System Configuration"
+msgstr "Configuration du système"
+
+#: ../../translate.php:269
+msgid "User Management"
+msgstr "Gestion des utilisateurs"
+
+#: ../../translate.php:270
+msgid "No Data"
+msgstr "aucune donnée"
+
+#: ../../translate.php:271 ../../translate.php:288
+msgid ""
+"An unexpected error has been encountered. Please contact the administrator "
+"for assistance."
+msgstr ""
+"Une erreur inattendue s'est produite. S'il vous plaît contactez "
+"l'administrateur de l'aide."
+
+#: ../../translate.php:272
+msgid "Record has been added successfully."
+msgstr "Enregistrement a été ajouté avec succès"
+
+#: ../../translate.php:273
+msgid "Record is not added due to errors encountered."
+msgstr "L'enregistrement n'est pas ajouté en raison d'erreurs rencontrées"
+
+#: ../../translate.php:274
+msgid "Please add new record into it."
+msgstr "S'il vous plaît ajoutez nouveau record en elle"
+
+#: ../../translate.php:275
+msgid "Record has been updated successfully."
+msgstr "Enregistrement a été mis à jour"
+
+#: ../../translate.php:276
+msgid "Record is not updated due to errors encountered."
+msgstr "L'enregistrement n'est pas mis à jour en raison d'erreurs rencontrées"
+
+#: ../../translate.php:277
+msgid "The record does not exist."
+msgstr "Le dossier n'existe pas"
+
+#: ../../translate.php:278
+msgid "There are no records."
+msgstr "Il n'y a pas de dossiers"
+
+#: ../../translate.php:279
+msgid "Record has been deleted successfully."
+msgstr "Enregistrement a été supprimé"
+
+#: ../../translate.php:280
+msgid "Record is not deleted due to errors encountered."
+msgstr "L'enregistrement n'est pas supprimé en raison d'erreurs rencontrées"
+
+#: ../../translate.php:281
+msgid "Your search returns no result."
+msgstr "Votre recherche ne retourne aucun résultat"
+
+#: ../../translate.php:282
+msgid "Your session has timed out. Please login again."
+msgstr "Votre session a expiré. S'il vous plaît vous connecter à nouveau."
+
+#: ../../translate.php:283
+msgid "You have entered an invalid username or password."
+msgstr "Vous avez entré un nom d'utilisateur ou mot de passe incorrect"
+
+#: ../../translate.php:284
+msgid "You are not an authorized user."
+msgstr "Vous n'êtes pas un utilisateur autorisé"
+
+#: ../../translate.php:285
+msgid "No result returned from the search."
+msgstr "Aucun résultat retourné par la recherche"
+
+#: ../../translate.php:286
+msgid "The file has been uploaded."
+msgstr "Le fichier a été téléchargé"
+
+#: ../../translate.php:287
+msgid "The files have been uploaded."
+msgstr "Les fichiers ont été téléchargés"
+
+#: ../../translate.php:289 ../../translate.php:291 ../../translate.php:292
+msgid "Please ensure that the file is smaller than the file size limit."
+msgstr ""
+"S'il vous plaît assurez-vous que le fichier est plus petit que la limite de "
+"taille de fichier"
+
+#: ../../translate.php:290
+msgid "No file was uploaded."
+msgstr "Pas de fichier a été téléchargé"
+
+#: ../../translate.php:293
+msgid "Invalid file format."
+msgstr "Format de fichier incorrect"
+
+#: ../../translate.php:294
+msgid "File is not uploaded due to errors encountered."
+msgstr "Le fichier n'est pas téléchargé en raison d'erreurs rencontrées"
+
+#: ../../translate.php:295 ../../translate.php:314 ../../translate.php:317
+#: ../../translate.php:320 ../../translate.php:322 ../../translate.php:332
+#: ../../translate.php:337
+msgid "Please enter a valid name"
+msgstr "S'il vous plaît entrer un nom valide"
+
+#: ../../translate.php:296
+msgid "Please select a year"
+msgstr "S'il vous plaît sélectionner un an"
+
+#: ../../translate.php:297
+msgid "Please select a grade"
+msgstr "S'il vous plaît sélectionner un grade"
+
+#: ../../translate.php:298 ../../translate.php:304 ../../translate.php:312
+#: ../../translate.php:335 ../../translate.php:336 ../../translate.php:367
+#: ../../translate.php:369 ../../translate.php:370 ../../translate.php:371
+#: ../../translate.php:373 ../../translate.php:379 ../../translate.php:380
+msgid "Please enter a valid option"
+msgstr "S'il vous plaît entrer une option valable"
+
+#: ../../translate.php:299
+msgid "Please enter a valid minimum value"
+msgstr "S'il vous plaît entrer une valeur minimale valide"
+
+#: ../../translate.php:300
+msgid "Please enter a valid maximum value"
+msgstr "S'il vous plaît entrer une valeur maximale valide"
+
+#: ../../translate.php:301
+msgid "Please select a valid subject name"
+msgstr "S'il vous plaît sélectionner un nom d'objet valide"
+
+#: ../../translate.php:302
+msgid "Please select a valid class name"
+msgstr "S'il vous plaît sélectionner un nom de classe valide"
+
+#: ../../translate.php:303 ../../translate.php:342
+msgid "Please enter a valid class name"
+msgstr "S'il vous plaît entrer un nom de classe valide"
+
+#: ../../translate.php:305
+msgid "Please select a valid grade"
+msgstr "S'il vous plaît sélectionner une catégorie valide"
+
+#: ../../translate.php:306
+msgid "Start Time cannot be later than End Time"
+msgstr "Heure de départ ne peut pas être postérieure à l'heure de fin"
+
+#: ../../translate.php:308 ../../translate.php:384
+msgid "Please select a valid location"
+msgstr "S'il vous plaît sélectionnez un emplacement valide"
+
+#: ../../translate.php:309 ../../translate.php:385
+msgid "Please select a valid teacher"
+msgstr "S'il vous plaît sélectionner un enseignant valide"
+
+#: ../../translate.php:310
+msgid "Please select a valid status"
+msgstr "S'il vous plaît sélectionner un état ​​valide"
+
+#: ../../translate.php:311
+msgid "Please enter a valid Contact No"
+msgstr "S'il vous plaît entrer un numéro valide de contact"
+
+#: ../../translate.php:313 ../../translate.php:316 ../../translate.php:319
+#: ../../translate.php:329
+msgid "Please enter a valid code"
+msgstr "S'il vous plaît entrer un code valide"
+
+#: ../../translate.php:315
+msgid "Please select a programme"
+msgstr "S'il vous plaît sélectionner un programme"
+
+#: ../../translate.php:318
+msgid "Please enter a valid duration"
+msgstr "S'il vous plaît entrer une durée de validité"
+
+#: ../../translate.php:321 ../../translate.php:331 ../../translate.php:356
+msgid "Please enter a valid email"
+msgstr "S'il vous plaît entrer une adresse email valide"
+
+#: ../../translate.php:323 ../../translate.php:339
+msgid "Please enter a valid start date"
+msgstr "S'il vous plaît entrer une date de début de validité"
+
+#: ../../translate.php:324
+msgid "Please enter a valid start time"
+msgstr "S'il vous plaît entrer une heure de début valide"
+
+#: ../../translate.php:325
+msgid "Please enter a valid end date"
+msgstr "S'il vous plaît entrer une date de fin de validité"
+
+#: ../../translate.php:326
+msgid "Please enter a valid end time"
+msgstr "S'il vous plaît entrer un temps de fin de validité"
+
+#: ../../translate.php:327
+msgid "The end date/time cannot be earlier than the start date"
+msgstr "La date / heure de fin ne peut pas être antérieure à la date de début"
+
+#: ../../translate.php:328
+msgid "Please enter a valid address"
+msgstr "S'il vous plaît entrer une adresse valide"
+
+#: ../../translate.php:330
+msgid "Please enter a valid date opened"
+msgstr "S'il vous plaît entrer une date valide ouvert"
+
+#: ../../translate.php:333
+msgid "Please enter a valid postal code"
+msgstr "S'il vous plaît entrer un code postal valide"
+
+#: ../../translate.php:334
+msgid "Date closed must be greater than date opened"
+msgstr "Date de fermeture doit être supérieure à la date ouvert"
+
+#: ../../translate.php:338
+msgid "Please enter a valid year"
+msgstr "S'il vous plaît entrer une année valide"
+
+#: ../../translate.php:340
+msgid "End date must be greater than start date"
+msgstr "Date de fin doit être supérieure à la date de début"
+
+#: ../../translate.php:341
+msgid "Please enter a valid school day"
+msgstr "S'il vous plaît entrer un jour d'école valide"
+
+#: ../../translate.php:343
+msgid "Please select a valid school year"
+msgstr "S'il vous plaît sélectionner une année scolaire valide"
+
+#: ../../translate.php:344
+msgid "Please enter a numeric value for total seats"
+msgstr ""
+"S'il vous plaît entrer une valeur numérique pour nombre total de sièges"
+
+#: ../../translate.php:345
+msgid "Please enter a numeric value for available seats"
+msgstr "S'il vous plaît entrer une valeur numérique pour places libres"
+
+#: ../../translate.php:346
+msgid "Please enter your username"
+msgstr "S'il vous plaît, entrez votre nom d'utilisateur"
+
+#: ../../translate.php:347
+msgid "This username is already in use"
+msgstr "Ce nom d'utilisateur est déjà utilisé"
+
+#: ../../translate.php:348
+msgid "Please enter your current password"
+msgstr "S'il vous plaît, entrez votre mot de passe actuel"
+
+#: ../../translate.php:349
+msgid "Your current password is incorrect"
+msgstr "Votre mot de passe est incorrect"
+
+#: ../../translate.php:350
+msgid "Password must be at least 6 characters"
+msgstr "Mot de passe doit être d'au moins 6 caractères"
+
+#: ../../translate.php:351
+msgid "Please enter your new password"
+msgstr "S'il vous plaît, entrez votre nouveau mot de passe"
+
+#: ../../translate.php:352
+msgid "Please confirm your new password"
+msgstr "S'il vous plaît confirmer votre nouveau mot de passe"
+
+#: ../../translate.php:353
+msgid "Both passwords do not match"
+msgstr "Les deux mots de passe ne correspondent pas"
+
+#: ../../translate.php:354
+msgid "Please enter a valid first name"
+msgstr "S'il vous plaît entrer un prénom valide"
+
+#: ../../translate.php:355
+msgid "Please enter a valid last name"
+msgstr "S'il vous plaît entrer un nom valide"
+
+#: ../../translate.php:357
+msgid "Please enter a valid staff no"
+msgstr "S'il vous plaît entrer un certain nombre de personnel valide"
+
+#: ../../translate.php:358 ../../translate.php:372
+msgid "Please enter a start date"
+msgstr "S'il vous plaît entrer une date de début"
+
+#: ../../translate.php:359
+msgid "Please choose a category"
+msgstr "S'il vous plaît choisir une catégorie"
+
+#: ../../translate.php:360
+msgid "Please choose a status"
+msgstr "S'il vous plaît choisir un statut"
+
+#: ../../translate.php:361
+msgid "PLease enter a valid option"
+msgstr "Veuillez entrer une option valable"
+
+#: ../../translate.php:362 ../../translate.php:374
+msgid "Please enter a valid short form"
+msgstr "S'il vous plaît entrer un court formulaire valide"
+
+#: ../../translate.php:363 ../../translate.php:375
+msgid "Please enter a valid title"
+msgstr "S'il vous plaît entrez un titre valide"
+
+#: ../../translate.php:364 ../../translate.php:376
+msgid "Please enter a valid date"
+msgstr "S'il vous plaît entrer une date valide"
+
+#: ../../translate.php:365 ../../translate.php:377
+msgid "Please enter a valid description"
+msgstr "S'il vous plaît entrer une description valide"
+
+#: ../../translate.php:366 ../../translate.php:378
+msgid "Please enter a valid action"
+msgstr "S'il vous plaît entrer une action valide"
+
+#: ../../translate.php:368
+msgid "Please enter an employment date"
+msgstr "S'il vous plaît entrer une date d'emploi"
+
+#: ../../translate.php:381
+msgid "Please enter a valid timetable name"
+msgstr "S'il vous plaît entrer un nom de calendrier valide"
+
+#: ../../translate.php:382
+msgid "Start date cannot be later than end date"
+msgstr "Date de début ne peut pas être postérieure à la date de fin"
+
+#: ../../translate.php:386
+msgid "Modified"
+msgstr "modifié"
+
+#: ../../translate.php:387
+msgid "Created"
+msgstr "établi"
+
+#: ../../translate.php:388
+msgid "Staff Status Id"
+msgstr "Statut personnel Identifiant"
+
+#: ../../translate.php:389
+msgid "Staff Category Id"
+msgstr "Personnel de catégorie Identifiant"
+
+#: ../../translate.php:390
+msgid "Student Status Id"
+msgstr "Statut d'étudiant Identifiant"
+
+#: ../../translate.php:391
+msgid "Default Value"
+msgstr "valeur par défaut"
+
+#: ../../translate.php:392
+msgid "Label"
+msgstr "étiquette"
+
+#: ../../translate.php:393
+msgid "Desc"
+msgstr "description"
+
+#: ../../translate.php:394
+msgid "Language"
+msgstr "langue"
+
+#: ../../translate.php:395
+msgid "Name Display Format"
+msgstr "Nom Format d'affichage"

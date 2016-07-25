@@ -1,0 +1,1407 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: OpenEMIS School (Chinese)\n"
+"POT-Creation-Date: 2014-05-27 11:05+0800\n"
+"PO-Revision-Date: 2014-05-27 11:05+0800\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.4\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-SearchPath-0: ../..\n"
+
+#: ../../translate.php:2
+msgid "File size should not be larger than 2MB."
+msgstr "文件大小应不低于2兆的"
+
+#: ../../translate.php:3
+msgid "Academic"
+msgstr "学者"
+
+#: ../../translate.php:4
+msgid "Academic Details"
+msgstr "学术详情"
+
+#: ../../translate.php:5
+msgid "Action"
+msgstr "行动"
+
+#: ../../translate.php:6
+msgid "Active"
+msgstr "活跃"
+
+#: ../../translate.php:7
+msgid "Add"
+msgstr "加"
+
+#: ../../translate.php:8
+msgid "Add New Entry"
+msgstr "添加新条目"
+
+#: ../../translate.php:9
+msgid "Address"
+msgstr "地址"
+
+#: ../../translate.php:10
+msgid "All Years"
+msgstr "所有的年份"
+
+#: ../../translate.php:11
+msgid "April"
+msgstr "四月"
+
+#: ../../translate.php:12
+msgid "Attachment"
+msgstr "附件"
+
+#: ../../translate.php:13
+msgid "Attachments"
+msgstr "附件"
+
+#: ../../translate.php:14 ../../translate.php:179
+msgid "Attendance"
+msgstr "护理"
+
+#: ../../translate.php:15
+msgid "Attendance by Day"
+msgstr "应邀出席者日"
+
+#: ../../translate.php:16
+msgid "Attendance by Lesson"
+msgstr "应邀出席者课"
+
+#: ../../translate.php:17
+msgid "August"
+msgstr "八月"
+
+#: ../../translate.php:18
+msgid "Back"
+msgstr "后面"
+
+#: ../../translate.php:19
+msgid "Behaviour"
+msgstr "行为"
+
+#: ../../translate.php:20
+msgid "Behaviour Category"
+msgstr "行为类别"
+
+#: ../../translate.php:21
+msgid "Cancel"
+msgstr "取消"
+
+#: ../../translate.php:22
+msgid "Categories"
+msgstr "分类"
+
+#: ../../translate.php:23
+msgid "Category"
+msgstr "类别"
+
+#: ../../translate.php:24
+msgid "Change"
+msgstr "变化"
+
+#: ../../translate.php:25
+msgid "Change Password"
+msgstr "更改密码"
+
+#: ../../translate.php:26
+msgid "Chinese"
+msgstr "中文"
+
+#: ../../translate.php:27 ../../translate.php:251
+msgid "Classes"
+msgstr "班"
+
+#: ../../translate.php:28
+msgid "Close"
+msgstr "关闭"
+
+#: ../../translate.php:29
+msgid "Code"
+msgstr "码"
+
+#: ../../translate.php:30
+msgid "Comment"
+msgstr "评论"
+
+#: ../../translate.php:31
+msgid "Contact"
+msgstr "联系"
+
+#: ../../translate.php:32
+msgid "Contact Person"
+msgstr "联系人"
+
+#: ../../translate.php:33
+msgid "Created By"
+msgstr "创建人"
+
+#: ../../translate.php:34
+msgid "Created On"
+msgstr "创建时间"
+
+#: ../../translate.php:35
+msgid "Date"
+msgstr "日期"
+
+#: ../../translate.php:36
+msgid "Date Closed"
+msgstr "休息日"
+
+#: ../../translate.php:37
+msgid "Date Of Behaviour"
+msgstr "行为的日期"
+
+#: ../../translate.php:38
+msgid "Date Opened"
+msgstr "开业日期"
+
+#: ../../translate.php:39
+msgid "Date Uploaded"
+msgstr "上传日期"
+
+#: ../../translate.php:40
+msgid "Day"
+msgstr "日"
+
+#: ../../translate.php:41
+msgid "December"
+msgstr "十二月"
+
+#: ../../translate.php:42 ../../translate.php:43
+msgid "Delete"
+msgstr "删除"
+
+#: ../../translate.php:44
+msgid ""
+"You are able to delete this record in the database. All related information "
+"of this record will also be deleted. Are you sure you want to do this?"
+msgstr ""
+"您可以在数据库中删除这个记录。此记录的所有相关信息也将被删除。您确定要这么做"
+"吗？"
+
+#: ../../translate.php:45
+msgid "Details"
+msgstr "详细信息"
+
+#: ../../translate.php:46
+msgid "Description"
+msgstr "描述"
+
+#: ../../translate.php:47
+msgid "Duration"
+msgstr "长短"
+
+#: ../../translate.php:48
+msgid "Edit"
+msgstr "编辑"
+
+#: ../../translate.php:49
+msgid "Email"
+msgstr "电子邮件"
+
+#: ../../translate.php:50
+msgid "End Date"
+msgstr "结束日期"
+
+#: ../../translate.php:51
+msgid "End Time"
+msgstr "结束时间"
+
+#: ../../translate.php:52
+msgid "English"
+msgstr "英语"
+
+#: ../../translate.php:53
+msgid "Fax"
+msgstr "传真"
+
+#: ../../translate.php:54
+msgid "February"
+msgstr "二月"
+
+#: ../../translate.php:55
+msgid "Female"
+msgstr "女"
+
+#: ../../translate.php:56
+msgid "File"
+msgstr "文件"
+
+#: ../../translate.php:57
+msgid "File Name"
+msgstr "文件名"
+
+#: ../../translate.php:58
+msgid "File Type"
+msgstr "文件类型"
+
+#: ../../translate.php:59
+msgid "First Name"
+msgstr "名字"
+
+#: ../../translate.php:60
+msgid "Fri"
+msgstr "周五"
+
+#: ../../translate.php:61
+msgid "Friday"
+msgstr "星期五"
+
+#: ../../translate.php:62
+msgid "Gender"
+msgstr "性别"
+
+#: ../../translate.php:63
+msgid "General"
+msgstr "一般"
+
+#: ../../translate.php:64
+msgid "Grade"
+msgstr "等级"
+
+#: ../../translate.php:65
+msgid "Grades"
+msgstr "等次"
+
+#: ../../translate.php:66
+msgid "Grading"
+msgstr "等级"
+
+#: ../../translate.php:67 ../../translate.php:206
+msgid "Guardian"
+msgstr "监护人"
+
+#: ../../translate.php:68 ../../translate.php:207
+msgid "Guardians"
+msgstr "监护人"
+
+#: ../../translate.php:69
+msgid "Identification"
+msgstr "鉴定"
+
+#: ../../translate.php:70
+msgid "Identification No"
+msgstr "身份证号码"
+
+#: ../../translate.php:71
+msgid "Identification No or Name is not found"
+msgstr "身份证号码或名称未找到"
+
+#: ../../translate.php:72
+msgid "Identification No, First Name or Last Name"
+msgstr "身份证号码，名字或姓氏"
+
+#: ../../translate.php:73
+msgid "Identification No or Name"
+msgstr "身份证号码或名称"
+
+#: ../../translate.php:74
+msgid "Inactive"
+msgstr "不活跃"
+
+#: ../../translate.php:75
+msgid "Infrastructure"
+msgstr "基础设施"
+
+#: ../../translate.php:76
+msgid "January"
+msgstr "一月"
+
+#: ../../translate.php:77
+msgid "July"
+msgstr "七月"
+
+#: ../../translate.php:78
+msgid "June"
+msgstr "六月"
+
+#: ../../translate.php:79
+msgid "Last Modified By"
+msgstr "上次修改者"
+
+#: ../../translate.php:80
+msgid "Last Modified On"
+msgstr "最后修改于"
+
+#: ../../translate.php:81
+msgid "Last Name"
+msgstr "姓"
+
+#: ../../translate.php:82
+msgid "Location"
+msgstr "位置"
+
+#: ../../translate.php:83
+msgid "Logout"
+msgstr "注销"
+
+#: ../../translate.php:84
+msgid "Malay"
+msgstr "马来人"
+
+#: ../../translate.php:85
+msgid "Male"
+msgstr "男性"
+
+#: ../../translate.php:86
+msgid "March"
+msgstr "三月"
+
+#: ../../translate.php:87
+msgid "Marks"
+msgstr "商标"
+
+#: ../../translate.php:88
+msgid "Maths"
+msgstr "数学"
+
+#: ../../translate.php:89
+msgid "Max"
+msgstr "最大"
+
+#: ../../translate.php:90
+msgid "Maximum"
+msgstr "最大"
+
+#: ../../translate.php:91
+msgid "May"
+msgstr "五月"
+
+#: ../../translate.php:92
+msgid "Min"
+msgstr "最小"
+
+#: ../../translate.php:93
+msgid "Minimum"
+msgstr "最低限度"
+
+#: ../../translate.php:94
+msgid "Modified By"
+msgstr "修改者"
+
+#: ../../translate.php:95
+msgid "Modified On"
+msgstr "修改于"
+
+#: ../../translate.php:96
+msgid "Mon"
+msgstr "周一"
+
+#: ../../translate.php:97
+msgid "Monday"
+msgstr "星期一"
+
+#: ../../translate.php:98
+msgid "Month"
+msgstr "月"
+
+#: ../../translate.php:99
+msgid "My Account"
+msgstr "我的帐户"
+
+#: ../../translate.php:100
+msgid "Name"
+msgstr "名称"
+
+#: ../../translate.php:101
+msgid "New"
+msgstr "新"
+
+#: ../../translate.php:102
+msgid "No"
+msgstr "无"
+
+#: ../../translate.php:103
+msgid "No Option"
+msgstr "没有选项"
+
+#: ../../translate.php:104
+msgid "not specified"
+msgstr "未指定"
+
+#: ../../translate.php:105
+msgid "November"
+msgstr "十一月"
+
+#: ../../translate.php:106
+msgid "October"
+msgstr "十月"
+
+#: ../../translate.php:107
+msgid "Option"
+msgstr "选项"
+
+#: ../../translate.php:108
+msgid "Option Not Found"
+msgstr "期权未找到"
+
+#: ../../translate.php:109
+msgid "Order"
+msgstr "顺序"
+
+#: ../../translate.php:110
+msgid "Password"
+msgstr "密码"
+
+#: ../../translate.php:111
+msgid "Period"
+msgstr "期"
+
+#: ../../translate.php:112
+msgid "Physics"
+msgstr "物理"
+
+#: ../../translate.php:113
+msgid "Postal Code"
+msgstr "邮政编码"
+
+#: ../../translate.php:114
+msgid "Print"
+msgstr "打印"
+
+#: ../../translate.php:115
+msgid "Profile Image"
+msgstr "简介的图片"
+
+#: ../../translate.php:116
+msgid "Programme"
+msgstr "计划"
+
+#: ../../translate.php:117
+msgid "Programmes"
+msgstr "课程"
+
+#: ../../translate.php:118
+msgid "Relationship"
+msgstr "关系"
+
+#: ../../translate.php:119
+msgid "Relationship Categories"
+msgstr "关系分类"
+
+#: ../../translate.php:120
+msgid "Relationship Category"
+msgstr "相关类别"
+
+#: ../../translate.php:121
+msgid "Remark"
+msgstr "备注"
+
+#: ../../translate.php:122
+msgid "Remarks"
+msgstr "备注"
+
+#: ../../translate.php:123
+msgid "Remove"
+msgstr "清除"
+
+#: ../../translate.php:124
+msgid "Reorder"
+msgstr "重新排序"
+
+#: ../../translate.php:125
+msgid "Result"
+msgstr "结果"
+
+#: ../../translate.php:126 ../../translate.php:241
+msgid "Results"
+msgstr "结果"
+
+#: ../../translate.php:127
+msgid "Sat"
+msgstr "星期六"
+
+#: ../../translate.php:128
+msgid "Saturday"
+msgstr "星期六"
+
+#: ../../translate.php:129
+msgid "Save"
+msgstr "保存"
+
+#: ../../translate.php:130
+msgid "Save as PDF"
+msgstr "另存为PDF"
+
+#: ../../translate.php:131
+msgid "School Days"
+msgstr "上学日"
+
+#: ../../translate.php:132
+msgid "Search"
+msgstr "搜索"
+
+#: ../../translate.php:133
+msgid "Search Results"
+msgstr "搜索结果"
+
+#: ../../translate.php:134
+msgid "Select"
+msgstr "选择"
+
+#: ../../translate.php:135
+msgid "Select File"
+msgstr "选择文件"
+
+#: ../../translate.php:136
+msgid "September"
+msgstr "九月"
+
+#: ../../translate.php:137
+msgid "Short Form"
+msgstr "短表"
+
+#: ../../translate.php:138
+msgid "Start Date"
+msgstr "开始日期"
+
+#: ../../translate.php:139
+msgid "Start Time"
+msgstr "开始时间"
+
+#: ../../translate.php:140
+msgid "Status"
+msgstr "状态"
+
+#: ../../translate.php:141 ../../translate.php:248
+msgid "Subject"
+msgstr "主题"
+
+#: ../../translate.php:142 ../../translate.php:249
+msgid "Subjects"
+msgstr "主题"
+
+#: ../../translate.php:143
+msgid "Sun"
+msgstr "星期天"
+
+#: ../../translate.php:144
+msgid "Sunday"
+msgstr "星期天"
+
+#: ../../translate.php:145
+msgid "Teacher"
+msgstr "老师"
+
+#: ../../translate.php:146
+msgid "Teachers"
+msgstr "教师"
+
+#: ../../translate.php:147
+msgid "Telephone"
+msgstr "电话"
+
+#: ../../translate.php:148
+msgid "Thur"
+msgstr "周四"
+
+#: ../../translate.php:149
+msgid "Thursday"
+msgstr "星期四"
+
+#: ../../translate.php:150
+msgid "Time"
+msgstr "时间"
+
+#: ../../translate.php:151
+msgid "Time Of Behaviour"
+msgstr "行为的时间"
+
+#: ../../translate.php:152
+msgid "Timetable"
+msgstr "时间表"
+
+#: ../../translate.php:153
+msgid "Title"
+msgstr "标题"
+
+#: ../../translate.php:154
+msgid "Today"
+msgstr "今天"
+
+#: ../../translate.php:155
+msgid "Tue"
+msgstr "星期二"
+
+#: ../../translate.php:156
+msgid "Tuesday"
+msgstr "星期二"
+
+#: ../../translate.php:157
+msgid "Type"
+msgstr "类型"
+
+#: ../../translate.php:158
+msgid "Types"
+msgstr "类型"
+
+#: ../../translate.php:159
+msgid "Username"
+msgstr "用户名"
+
+#: ../../translate.php:160
+msgid "Value"
+msgstr "值"
+
+#: ../../translate.php:161
+msgid "View"
+msgstr "视图"
+
+#: ../../translate.php:162
+msgid "Wed"
+msgstr "周三"
+
+#: ../../translate.php:163
+msgid "Wednesday"
+msgstr "星期三"
+
+#: ../../translate.php:164
+msgid "Year"
+msgstr "年"
+
+#: ../../translate.php:165
+msgid "Years"
+msgstr "岁月"
+
+#: ../../translate.php:166
+msgid "Add Event"
+msgstr "添加事件"
+
+#: ../../translate.php:167
+msgid "Class Event"
+msgstr "类事件"
+
+#: ../../translate.php:168
+msgid "List of Events"
+msgstr "活动一览"
+
+#: ../../translate.php:169
+msgid "School Event"
+msgstr "学校活动"
+
+#: ../../translate.php:170
+msgid "Event"
+msgstr "事件"
+
+#: ../../translate.php:171
+msgid "Events"
+msgstr "活动"
+
+#: ../../translate.php:172 ../../translate.php:175
+msgid "Add Student"
+msgstr "新增学生"
+
+#: ../../translate.php:173
+msgid "Add Academic Progress"
+msgstr "添加学术进展"
+
+#: ../../translate.php:174
+msgid "Academic Progress"
+msgstr "学术进展"
+
+#: ../../translate.php:176
+msgid "All Students"
+msgstr "所有学生"
+
+#: ../../translate.php:177
+msgid "Alumni"
+msgstr "校友"
+
+#: ../../translate.php:178
+msgid "Assessment Result"
+msgstr "评估结果"
+
+#: ../../translate.php:180
+msgid "Current Student"
+msgstr "当前学生"
+
+#: ../../translate.php:181
+msgid "Day Attendance"
+msgstr "当天出席"
+
+#: ../../translate.php:182
+msgid "Drop Out"
+msgstr "辍学"
+
+#: ../../translate.php:183
+msgid "Graduate"
+msgstr "毕业生"
+
+#: ../../translate.php:184
+msgid "Last Login"
+msgstr "上次登录"
+
+#: ../../translate.php:185
+msgid "Lesson Attendance"
+msgstr "出席课"
+
+#: ../../translate.php:186
+msgid "Student No"
+msgstr "学生人数"
+
+#: ../../translate.php:187
+msgid "Pass Student"
+msgstr "通过学生"
+
+#: ../../translate.php:188
+msgid "Progress Date"
+msgstr "进度日期"
+
+#: ../../translate.php:189
+msgid "Result Details"
+msgstr "结果详细信息"
+
+#: ../../translate.php:190
+msgid "Student"
+msgstr "学生"
+
+#: ../../translate.php:191
+msgid "Student State"
+msgstr "学生国家"
+
+#: ../../translate.php:192
+msgid "Student Status"
+msgstr "学籍"
+
+#: ../../translate.php:193
+msgid "Students"
+msgstr "学生"
+
+#: ../../translate.php:194
+msgid "Add Staff"
+msgstr "新增员工"
+
+#: ../../translate.php:195
+msgid "All Staff"
+msgstr "所有员工"
+
+#: ../../translate.php:196
+msgid "Staff Category"
+msgstr "工作人员分类"
+
+#: ../../translate.php:197
+msgid "Employment"
+msgstr "雇用"
+
+#: ../../translate.php:198
+msgid "Non Teaching"
+msgstr "非教学"
+
+#: ../../translate.php:199
+msgid "My Profile"
+msgstr "我的个人资料"
+
+#: ../../translate.php:200
+msgid "Staff No"
+msgstr "员工人数"
+
+#: ../../translate.php:201
+msgid "Staff Status"
+msgstr "工作人员状态"
+
+#: ../../translate.php:202
+msgid "Teaching"
+msgstr "教学"
+
+#: ../../translate.php:203
+msgid "Staff"
+msgstr "员工"
+
+#: ../../translate.php:204
+msgid "Add Guardian"
+msgstr "加入守护者"
+
+#: ../../translate.php:205
+msgid "Search Guardians"
+msgstr "搜索守护者"
+
+#: ../../translate.php:208
+msgid "Add Class"
+msgstr "添加类"
+
+#: ../../translate.php:209
+msgid "Add Class Assignment"
+msgstr "添加类分配"
+
+#: ../../translate.php:210
+msgid "Add Lesson"
+msgstr "新增课"
+
+#: ../../translate.php:211
+msgid "Add National Assignment"
+msgstr "新增国家分配"
+
+#: ../../translate.php:212
+msgid "Add Timetable"
+msgstr "添加时间表"
+
+#: ../../translate.php:213
+msgid "All Subjects"
+msgstr "所有主题"
+
+#: ../../translate.php:214
+msgid "All Teachers"
+msgstr "所有教师"
+
+#: ../../translate.php:215
+msgid "Class Assignments"
+msgstr "课堂作业"
+
+#: ../../translate.php:216
+msgid "Attendance Types"
+msgstr "考勤类型"
+
+#: ../../translate.php:217 ../../translate.php:246
+msgid "Class"
+msgstr "类"
+
+#: ../../translate.php:218
+msgid "Class Daily Attendance"
+msgstr "类日常考勤"
+
+#: ../../translate.php:219
+msgid "Edit Lesson"
+msgstr "编辑课"
+
+#: ../../translate.php:220
+msgid "Edit Timetable"
+msgstr "编辑时间表"
+
+#: ../../translate.php:221
+msgid "Education Grade"
+msgstr "教育等级"
+
+#: ../../translate.php:222
+msgid "Education Grades"
+msgstr "教育职系"
+
+#: ../../translate.php:223
+msgid "Education Grade Code"
+msgstr "教育等级代码"
+
+#: ../../translate.php:224
+msgid "Education Grades - Subjects"
+msgstr "教育级别 - 主题"
+
+#: ../../translate.php:225
+msgid "Education Grade Subject"
+msgstr "教育一级学科"
+
+#: ../../translate.php:226
+msgid "Education Grade Subjects"
+msgstr "教育一级学科"
+
+#: ../../translate.php:227
+msgid "Education Subject"
+msgstr "教育主题"
+
+#: ../../translate.php:228 ../../translate.php:261
+msgid "Education Subjects"
+msgstr "教育主题"
+
+#: ../../translate.php:229
+msgid "Education Subject Code"
+msgstr "教育科目代码"
+
+#: ../../translate.php:230
+msgid "Employment Types"
+msgstr "就业类型"
+
+#: ../../translate.php:231
+msgid "Grade(s)"
+msgstr "级"
+
+#: ../../translate.php:232
+msgid "Lesson"
+msgstr "教训"
+
+#: ../../translate.php:233
+msgid "Lessons"
+msgstr "教训"
+
+#: ../../translate.php:234
+msgid "Lesson Date"
+msgstr "上课日期"
+
+#: ../../translate.php:235
+msgid "Lesson From"
+msgstr "教训"
+
+#: ../../translate.php:236
+msgid "Lesson Status"
+msgstr "课程状态"
+
+#: ../../translate.php:237
+msgid "Lesson Time"
+msgstr "上课时间"
+
+#: ../../translate.php:238
+msgid "Lesson To"
+msgstr "教训"
+
+#: ../../translate.php:239
+msgid "List of Classes"
+msgstr "类的列表"
+
+#: ../../translate.php:240
+msgid "Programme - Grades"
+msgstr "计划 - 级别"
+
+#: ../../translate.php:242
+msgid "Room"
+msgstr "房间"
+
+#: ../../translate.php:243
+msgid "School Year"
+msgstr "学年"
+
+#: ../../translate.php:244 ../../translate.php:307 ../../translate.php:383
+msgid "Please select a valid subject"
+msgstr "请选择一个有效的主题"
+
+#: ../../translate.php:245
+msgid "Select multiple grades by holding \"Shift\" key."
+msgstr "通过按住“Shift”键选择多个档次。"
+
+#: ../../translate.php:247
+msgid "List of students contact information"
+msgstr "学生联系信息列表"
+
+#: ../../translate.php:250
+msgid "List of teachers contact information"
+msgstr "教师联系信息列表"
+
+#: ../../translate.php:252
+msgid "Total Seats"
+msgstr "总座位"
+
+#: ../../translate.php:253
+msgid "Weighting"
+msgstr "加权"
+
+#: ../../translate.php:254 ../../translate.php:268
+msgid "Administration"
+msgstr "管理"
+
+#: ../../translate.php:255
+msgid "Add User"
+msgstr "添加用户"
+
+#: ../../translate.php:256
+msgid "Assessment"
+msgstr "评定"
+
+#: ../../translate.php:257
+msgid "Assessment Items"
+msgstr "评估项目"
+
+#: ../../translate.php:258
+msgid "Education Programme"
+msgstr "教育计划"
+
+#: ../../translate.php:259
+msgid "Education Programmes"
+msgstr "教育活动"
+
+#: ../../translate.php:260
+msgid "Education Structure"
+msgstr "教育结构"
+
+#: ../../translate.php:262
+msgid "Field Options"
+msgstr "域选项"
+
+#: ../../translate.php:263
+msgid "List of Users"
+msgstr "用户列表"
+
+#: ../../translate.php:264
+msgid "National Assessment"
+msgstr "国家评估"
+
+#: ../../translate.php:265
+msgid "National Assessments"
+msgstr "国家评估"
+
+#: ../../translate.php:266
+msgid "Result Types"
+msgstr "结果类型"
+
+#: ../../translate.php:267
+msgid "System Configuration"
+msgstr "系统配置"
+
+#: ../../translate.php:269
+msgid "User Management"
+msgstr "用户管理"
+
+#: ../../translate.php:270
+msgid "No Data"
+msgstr "无资料"
+
+#: ../../translate.php:271 ../../translate.php:288
+msgid ""
+"An unexpected error has been encountered. Please contact the administrator "
+"for assistance."
+msgstr "一个意外的错误已经遇到。请联系管理员以获得帮助。"
+
+#: ../../translate.php:272
+msgid "Record has been added successfully."
+msgstr "记录已被成功添加"
+
+#: ../../translate.php:273
+msgid "Record is not added due to errors encountered."
+msgstr "记录不会因遇到错误添加"
+
+#: ../../translate.php:274
+msgid "Please add new record into it."
+msgstr "请添加新的记录到它"
+
+#: ../../translate.php:275
+msgid "Record has been updated successfully."
+msgstr "记录已经成功更新"
+
+#: ../../translate.php:276
+msgid "Record is not updated due to errors encountered."
+msgstr "记录不会因遇到错误更新"
+
+#: ../../translate.php:277
+msgid "The record does not exist."
+msgstr "该记录不存在"
+
+#: ../../translate.php:278
+msgid "There are no records."
+msgstr "没有记录"
+
+#: ../../translate.php:279
+msgid "Record has been deleted successfully."
+msgstr "记录已被成功删除"
+
+#: ../../translate.php:280
+msgid "Record is not deleted due to errors encountered."
+msgstr "记录不会因遇到错误删除"
+
+#: ../../translate.php:281
+msgid "Your search returns no result."
+msgstr "没有搜索到任何结果"
+
+#: ../../translate.php:282
+msgid "Your session has timed out. Please login again."
+msgstr "您的会话已超时。请重新登录。"
+
+#: ../../translate.php:283
+msgid "You have entered an invalid username or password."
+msgstr "您输入了一个无效的用户名或密码"
+
+#: ../../translate.php:284
+msgid "You are not an authorized user."
+msgstr "您不是授权用户"
+
+#: ../../translate.php:285
+msgid "No result returned from the search."
+msgstr "从搜索没有结果返回"
+
+#: ../../translate.php:286
+msgid "The file has been uploaded."
+msgstr "该文件已上传"
+
+#: ../../translate.php:287
+msgid "The files have been uploaded."
+msgstr "该文件已被上传"
+
+#: ../../translate.php:289 ../../translate.php:291 ../../translate.php:292
+msgid "Please ensure that the file is smaller than the file size limit."
+msgstr "请确保该文件比文件大小限制较小"
+
+#: ../../translate.php:290
+msgid "No file was uploaded."
+msgstr "没有文件被上传"
+
+#: ../../translate.php:293
+msgid "Invalid file format."
+msgstr "无效的文件格式"
+
+#: ../../translate.php:294
+msgid "File is not uploaded due to errors encountered."
+msgstr "文件不因遇到错误上传"
+
+#: ../../translate.php:295 ../../translate.php:314 ../../translate.php:317
+#: ../../translate.php:320 ../../translate.php:322 ../../translate.php:332
+#: ../../translate.php:337
+msgid "Please enter a valid name"
+msgstr "请输入一个有效的名称"
+
+#: ../../translate.php:296
+msgid "Please select a year"
+msgstr "请选择年份"
+
+#: ../../translate.php:297
+msgid "Please select a grade"
+msgstr "请选择一个档次"
+
+#: ../../translate.php:298 ../../translate.php:304 ../../translate.php:312
+#: ../../translate.php:335 ../../translate.php:336 ../../translate.php:367
+#: ../../translate.php:369 ../../translate.php:370 ../../translate.php:371
+#: ../../translate.php:373 ../../translate.php:379 ../../translate.php:380
+msgid "Please enter a valid option"
+msgstr "请输入一个有效的选项"
+
+#: ../../translate.php:299
+msgid "Please enter a valid minimum value"
+msgstr "请输入一个有效的最小值"
+
+#: ../../translate.php:300
+msgid "Please enter a valid maximum value"
+msgstr "请输入有效的最大值"
+
+#: ../../translate.php:301
+msgid "Please select a valid subject name"
+msgstr "请选择一个有效的主题名称"
+
+#: ../../translate.php:302
+msgid "Please select a valid class name"
+msgstr "请选择一个有效的类名"
+
+#: ../../translate.php:303 ../../translate.php:342
+msgid "Please enter a valid class name"
+msgstr "请输入有效的类名"
+
+#: ../../translate.php:305
+msgid "Please select a valid grade"
+msgstr "请选择一个有效的等级"
+
+#: ../../translate.php:306
+msgid "Start Time cannot be later than End Time"
+msgstr "比结束时间开始时间不得晚"
+
+#: ../../translate.php:308 ../../translate.php:384
+msgid "Please select a valid location"
+msgstr "请选择一个有效的位置"
+
+#: ../../translate.php:309 ../../translate.php:385
+msgid "Please select a valid teacher"
+msgstr "请选择一个有效的老师"
+
+#: ../../translate.php:310
+msgid "Please select a valid status"
+msgstr "请选择一个有效的状态"
+
+#: ../../translate.php:311
+msgid "Please enter a valid Contact No"
+msgstr "请输入一个有效的联络电话"
+
+#: ../../translate.php:313 ../../translate.php:316 ../../translate.php:319
+#: ../../translate.php:329
+msgid "Please enter a valid code"
+msgstr "请输入有效的代码"
+
+#: ../../translate.php:315
+msgid "Please select a programme"
+msgstr "请选择一个项目"
+
+#: ../../translate.php:318
+msgid "Please enter a valid duration"
+msgstr "请输入一个有效的持续时间"
+
+#: ../../translate.php:321 ../../translate.php:331 ../../translate.php:356
+msgid "Please enter a valid email"
+msgstr "请输入一个有效的电子邮件"
+
+#: ../../translate.php:323 ../../translate.php:339
+msgid "Please enter a valid start date"
+msgstr "一个有效的起始日期请输入"
+
+#: ../../translate.php:324
+msgid "Please enter a valid start time"
+msgstr "请输入一个有效的起始时间"
+
+#: ../../translate.php:325
+msgid "Please enter a valid end date"
+msgstr "一个有效的结束日期请输入"
+
+#: ../../translate.php:326
+msgid "Please enter a valid end time"
+msgstr "请输入一个有效的结束时间"
+
+#: ../../translate.php:327
+msgid "The end date/time cannot be earlier than the start date"
+msgstr "结束日期/时间不能早于开始日期"
+
+#: ../../translate.php:328
+msgid "Please enter a valid address"
+msgstr "请输入一个有效的地址"
+
+#: ../../translate.php:330
+msgid "Please enter a valid date opened"
+msgstr "开了一个有效的日期请输入"
+
+#: ../../translate.php:333
+msgid "Please enter a valid postal code"
+msgstr "请输入有效的邮政编码"
+
+#: ../../translate.php:334
+msgid "Date closed must be greater than date opened"
+msgstr "关闭日期必须大于日开幕"
+
+#: ../../translate.php:338
+msgid "Please enter a valid year"
+msgstr "请输入有效的一年"
+
+#: ../../translate.php:340
+msgid "End date must be greater than start date"
+msgstr "结束日期必须大于开始日期"
+
+#: ../../translate.php:341
+msgid "Please enter a valid school day"
+msgstr "请输入有效的上课日"
+
+#: ../../translate.php:343
+msgid "Please select a valid school year"
+msgstr "请选择一个有效的学年"
+
+#: ../../translate.php:344
+msgid "Please enter a numeric value for total seats"
+msgstr "请输入一个数值总席位"
+
+#: ../../translate.php:345
+msgid "Please enter a numeric value for available seats"
+msgstr "请输入一个数值可用座位"
+
+#: ../../translate.php:346
+msgid "Please enter your username"
+msgstr "请输入您的用户名"
+
+#: ../../translate.php:347
+msgid "This username is already in use"
+msgstr "此用户名已被使用"
+
+#: ../../translate.php:348
+msgid "Please enter your current password"
+msgstr "请输入您的当前密码"
+
+#: ../../translate.php:349
+msgid "Your current password is incorrect"
+msgstr "您当前的密码不正确"
+
+#: ../../translate.php:350
+msgid "Password must be at least 6 characters"
+msgstr "密码必须至少6个字符"
+
+#: ../../translate.php:351
+msgid "Please enter your new password"
+msgstr "请输入您的新密码"
+
+#: ../../translate.php:352
+msgid "Please confirm your new password"
+msgstr "请确认您的新密码"
+
+#: ../../translate.php:353
+msgid "Both passwords do not match"
+msgstr "这两个密码不匹配"
+
+#: ../../translate.php:354
+msgid "Please enter a valid first name"
+msgstr "请输入有效的名字"
+
+#: ../../translate.php:355
+msgid "Please enter a valid last name"
+msgstr "请输入有效的姓氏"
+
+#: ../../translate.php:357
+msgid "Please enter a valid staff no"
+msgstr "请输入一个有效的员工人数"
+
+#: ../../translate.php:358 ../../translate.php:372
+msgid "Please enter a start date"
+msgstr "开始日期请输入"
+
+#: ../../translate.php:359
+msgid "Please choose a category"
+msgstr "请选择一个类别"
+
+#: ../../translate.php:360
+msgid "Please choose a status"
+msgstr "请选择一个状态"
+
+#: ../../translate.php:361
+msgid "PLease enter a valid option"
+msgstr "请输入一个有效的选项"
+
+#: ../../translate.php:362 ../../translate.php:374
+msgid "Please enter a valid short form"
+msgstr "请输入一个有效的短形式"
+
+#: ../../translate.php:363 ../../translate.php:375
+msgid "Please enter a valid title"
+msgstr "请输入一个有效的标题"
+
+#: ../../translate.php:364 ../../translate.php:376
+msgid "Please enter a valid date"
+msgstr "有效日期请输入"
+
+#: ../../translate.php:365 ../../translate.php:377
+msgid "Please enter a valid description"
+msgstr "请输入一个有效的描述"
+
+#: ../../translate.php:366 ../../translate.php:378
+msgid "Please enter a valid action"
+msgstr "请输入有效的行动"
+
+#: ../../translate.php:368
+msgid "Please enter an employment date"
+msgstr "雇佣日期请输入"
+
+#: ../../translate.php:381
+msgid "Please enter a valid timetable name"
+msgstr "请输入有效的时间表名称"
+
+#: ../../translate.php:382
+msgid "Start date cannot be later than end date"
+msgstr "开始日期不能晚于结束日期"
+
+#: ../../translate.php:386
+msgid "Modified"
+msgstr "改性"
+
+#: ../../translate.php:387
+msgid "Created"
+msgstr "创建"
+
+#: ../../translate.php:388
+msgid "Staff Status Id"
+msgstr "工作人员身份标识"
+
+#: ../../translate.php:389
+msgid "Staff Category Id"
+msgstr "工作人员分类标识"
+
+#: ../../translate.php:390
+msgid "Student Status Id"
+msgstr "学生身份标识"
+
+#: ../../translate.php:391
+msgid "Default Value"
+msgstr "默认值"
+
+#: ../../translate.php:392
+msgid "Label"
+msgstr "标签"
+
+#: ../../translate.php:393
+msgid "Desc"
+msgstr "描述"
+
+#: ../../translate.php:394
+msgid "Language"
+msgstr "语"
+
+#: ../../translate.php:395
+msgid "Name Display Format"
+msgstr "名称显示格式"

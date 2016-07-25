@@ -1,0 +1,70 @@
+.italic { font-style: italic; }
+.form-error { float: left; }
+.error-message {
+	float: left;
+	font-size: 11px;
+	color: #FF0000;
+	line-height: 20px;
+	padding: 4px 10px;
+	margin-left: 10px;
+	border: 1px solid #FF7171;
+	background-color: #FCE1E2;
+	border-radius: 3px;
+	-moz-border-radius: 3px;
+	-webkit-border-radius: 3px;
+	max-width: 300px;
+}
+
+.input-day, select[name$="[day]"] { width: 70px; }
+.input-month, select[name$="[month]"] { width: 120px; }
+.input-year, select[name$="[year]"] { width: 80px; }
+.input-hour, select[name$="[hour]"] { width: 98px; }
+.input-minute, select[name$="[min]"] { width: 98px; }
+.input-meridian, select[name$="[meridian]"] { width: 80px; }
+.input-select { width: 284px; }
+.input-checkbox { margin-top: 2px !important; }
+
+.input.date select { width: 100px; }
+.input.date button { margin-left: 10px; }
+
+.input-contact .input-medium { margin-left: 10px; width: 169px; }
+
+.input-label{
+	padding: 6px 10px;
+	float: left;
+	margin-left:-10px;
+	margin-right: -10px;
+}
+
+.button-wrapper{
+	float: left;
+}
+
+.date-wrapper { float: left; margin-left: 20px; }
+
+.control-label-left { text-align: left !important; }
+.control-wrapper { margin-bottom: 10px; }
+.control-wrapper a { margin-left: 5px; }
+.control-add { margin-left: 318px !important; }
+.controls span.date-word-space{ padding:0 20px }
+.controls select.date{ width:100px !important;}
+
+.details .span4 { width: 160px; }
+/* .details .control-group { border-bottom: 1px dotted #EFEFEF; padding: 10px 0; } */
+.details .control-wrapper .control-group { border-bottom: 0; margin-bottom: 0; padding-bottom: 0; }
+.details .control-label-left { color: #666666; }
+
+.form-option .control-label-left { width: 90px; }
+.form-option .controls { margin-left: 100px; }
+
+.table-hover tr td { cursor: pointer; }
+.table-content form { margin: 0; }
+.table-content select,
+.table-content input { margin-bottom: 0; }
+.table-content .center { text-align: center; vertical-align: middle; }
+.table-content td .icon-trash { font-size: 16px; color: #2E6013; }
+.table-content td.action { text-align: center; }
+.table-content a.action { margin-right: 8px; }
+.table-content a.action-last { margin-right: 0; }
+
+.delete { display: none; }

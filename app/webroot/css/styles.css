@@ -1,0 +1,174 @@
+/* App.css override */
+body { background: #fff; line-height:1.42857;font-family:"Helvetica Neue",​Helvetica,​Arial,​sans-serif; font-size:12px;}
+
+h1, h2, h3, h4, h5, h6, p {
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+
+#content { margin-top: 0; }
+#content-container { padding: 0 }
+#content-header { height: auto; padding-top:80px; margin: 0}
+#content-header h1 { left: 0; line-height: normal; padding: 25px 0 0 0; }
+
+.portlet .portlet-header { background-color: #ececec; }
+
+.nav-tabs > li.active > a, .nav-tabs > li.active > a:hover, .nav-tabs > li.active > a:focus { color: #b16857; }
+.nav a { color: #acc458; }
+
+#main-nav .sub-nav > li > a:hover {
+  text-decoration: none;
+  background-color: #ffffff;}
+  
+#main-nav {
+    border-right: 1px solid #ccc;
+    width: 240px;
+	top: 105px;
+}
+
+#main-nav > li.active > a i { color: #fff;}
+
+#main-nav .sub-nav {
+    background: none repeat scroll 0 0 #ededed;
+    box-shadow: 0 2px 3px #888888 inset;
+	-moz-box-shadow: 0 2px 3px #888888 inset;
+	-webkit-box-shadow: 0 2px 3px #888888 inset;
+	background: #ededed;
+}
+
+#back-to-top { bottom:53px;}
+
+/*App.css override end*/
+
+.breadcrumb { background-color: transparent; padding: 0; margin: 10px 0; }
+.tab-content { padding: 0 10px; min-height: 350px; }
+.heading a { font-size: 12px; margin-left: 15px; }
+
+.input-day, select[name$="[day]"] { width: 60px; display: inline-block; }
+.input-month, select[name$="[month]"] { width: 108px; display: inline-block; }
+.input-year, select[name$="[year]"] { width: 80px; display: inline-block; }
+.input-hour, select[name$="[hour]"] { width: 82px; display: inline-block; }
+.input-minute, select[name$="[min]"] { width: 82px; display: inline-block; }
+.input-meridian, select[name$="[meridian]"] { width: 85px; display: inline-block; }
+
+.btn-back { margin-left: 5px; }
+.form-buttons button { margin-left: 5px; }
+
+.form-error {
+	float: left;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	margin-bottom: 0;
+}
+
+.table-clickable { cursor: pointer; }
+.table-input tbody td { vertical-align: middle !important; }
+
+.option-filter { overflow: hidden; }
+
+td.action { text-align: center; width: 110px; }
+td.action a.action { margin-right: 10px; }
+td.action a.action-last { margin-right: 0; }
+
+.datepicker table { margin-left: 5px !important; }
+.datepicker td.active { background-color: #E5412D !important; }
+.datepicker td.highlight { color: #468C40; text-decoration: underline; }
+
+.attachment { line-height: 36px; }
+.thumbnail { height: 110px; width: 110px; padding: 2px; }
+.thumbnail img { height: 100%; width: 100%; }
+
+body.modal-open { margin-right: 0; }
+form.modal-form { display: inline-block; }
+
+.icon { background-size: 16px; height: 16px; }
+
+.icon-administrators{
+	background-image: url(../img/icons/black/administrators.png);
+}
+.icon-profile{
+	background-image: url(../img/icons/black/profile.png);
+}
+.icon-dashboard{
+	background-image: url(../img/icons/black/dashboard.png);
+}
+.icon-home{
+	background-image: url(../img/icons/black/home.png);
+}
+.icon-events{
+	background-image: url(../img/icons/black/events.png);
+}
+.icon-students{
+	background-image: url(../img/icons/black/students.png);
+}
+.icon-staff{
+	background-image: url(../img/icons/black/staff.png);
+}
+.icon-classes{
+	background-image: url(../img/icons/black/classes.png);
+}
+.icon-guardians{
+	background-image: url(../img/icons/black/guardians.png);
+}
+.icon-results{
+	background-image: url(../img/icons/black/results.png);
+}
+.icon-attendance{
+	background-image: url(../img/icons/black/attendance.png);
+}
+.icon-reports{
+	background-image: url(../img/icons/black/reports.png);
+}
+.icon-settings{
+	background-image: url(../img/icons/black/settings.png);
+}
+.icon-timetable{
+	background-image: url(../img/icons/black/timetable.png);
+}
+.icon-behaviours{
+	background-image: url(../img/icons/black/behaviours.png);
+}
+
+.active .icon-administrators{
+	background-image: url(../img/icons/white/administrators.png);
+}
+.active .icon-profile{
+	background-image: url(../img/icons/white/profile.png);
+}
+.active .icon-dashboard{
+	background-image: url(../img/icons/white/dashboard.png);
+}
+.active .icon-home{
+	background-image: url(../img/icons/white/home.png);
+}
+.active .icon-events{
+	background-image: url(../img/icons/white/events.png);
+}
+.active .icon-students{
+	background-image: url(../img/icons/white/students.png);
+}
+.active .icon-staff{
+	background-image: url(../img/icons/white/staff.png);
+}
+.active .icon-classes{
+	background-image: url(../img/icons/white/classes.png);
+}
+.active .icon-guardians{
+	background-image: url(../img/icons/white/guardians.png);
+}
+.active .icon-results{
+	background-image: url(../img/icons/white/results.png);
+}
+.active .icon-attendance{
+	background-image: url(../img/icons/white/attendance.png);
+}
+.active .icon-reports{
+	background-image: url(../img/icons/white/reports.png);
+}
+.active .icon-settings{
+	background-image: url(../img/icons/white/settings.png);
+}
+.active .icon-timetable{
+	background-image: url(../img/icons/white/timetable.png);
+}
+.active .icon-behaviours{
+	background-image: url(../img/icons/white/behaviours.png);

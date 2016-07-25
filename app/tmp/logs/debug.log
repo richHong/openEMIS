@@ -1,0 +1,274 @@
+2015-01-22 13:31:46 Notice: Notice (8): Undefined variable: accessViewType in [/web/openemis-school/app/View/Elements/layout/left_navigation.ctp, line 9]
+Trace:
+include - APP/View/Elements/layout/left_navigation.ctp, line 9
+View::_evaluate() - CORE/Cake/View/View.php, line 931
+View::_render() - CORE/Cake/View/View.php, line 893
+View::_renderElement() - CORE/Cake/View/View.php, line 1191
+View::element() - CORE/Cake/View/View.php, line 408
+include - APP/View/Layouts/default.ctp, line 70
+View::_evaluate() - CORE/Cake/View/View.php, line 931
+View::_render() - CORE/Cake/View/View.php, line 893
+View::renderLayout() - CORE/Cake/View/View.php, line 525
+View::render() - CORE/Cake/View/View.php, line 470
+Controller::render() - CORE/Cake/Controller/Controller.php, line 952
+ExceptionRenderer::_outputMessage() - CORE/Cake/Error/ExceptionRenderer.php, line 276
+ExceptionRenderer::error400() - CORE/Cake/Error/ExceptionRenderer.php, line 222
+ExceptionRenderer::render() - CORE/Cake/Error/ExceptionRenderer.php, line 178
+ErrorHandler::handleException() - CORE/Cake/Error/ErrorHandler.php, line 122
+[main] - [internal], line ??
+
+2015-01-22 13:31:46 Notice: Notice (8): Undefined variable: accessViewType in [/web/openemis-school/app/View/Elements/layout/left_navigation.ctp, line 72]
+Trace:
+include - APP/View/Elements/layout/left_navigation.ctp, line 72
+View::_evaluate() - CORE/Cake/View/View.php, line 931
+View::_render() - CORE/Cake/View/View.php, line 893
+View::_renderElement() - CORE/Cake/View/View.php, line 1191
+View::element() - CORE/Cake/View/View.php, line 408
+include - APP/View/Layouts/default.ctp, line 70
+View::_evaluate() - CORE/Cake/View/View.php, line 931
+View::_render() - CORE/Cake/View/View.php, line 893
+View::renderLayout() - CORE/Cake/View/View.php, line 525
+View::render() - CORE/Cake/View/View.php, line 470
+Controller::render() - CORE/Cake/Controller/Controller.php, line 952
+ExceptionRenderer::_outputMessage() - CORE/Cake/Error/ExceptionRenderer.php, line 276
+ExceptionRenderer::error400() - CORE/Cake/Error/ExceptionRenderer.php, line 222
+ExceptionRenderer::render() - CORE/Cake/Error/ExceptionRenderer.php, line 178
+ErrorHandler::handleException() - CORE/Cake/Error/ErrorHandler.php, line 122
+[main] - [internal], line ??
+
+2015-01-22 13:31:46 Notice: Notice (8): Undefined variable: accessViewType in [/web/openemis-school/app/View/Elements/layout/left_navigation.ctp, line 95]
+Trace:
+include - APP/View/Elements/layout/left_navigation.ctp, line 95
+View::_evaluate() - CORE/Cake/View/View.php, line 931
+View::_render() - CORE/Cake/View/View.php, line 893
+View::_renderElement() - CORE/Cake/View/View.php, line 1191
+View::element() - CORE/Cake/View/View.php, line 408
+include - APP/View/Layouts/default.ctp, line 70
+View::_evaluate() - CORE/Cake/View/View.php, line 931
+View::_render() - CORE/Cake/View/View.php, line 893
+View::renderLayout() - CORE/Cake/View/View.php, line 525
+View::render() - CORE/Cake/View/View.php, line 470
+Controller::render() - CORE/Cake/Controller/Controller.php, line 952
+ExceptionRenderer::_outputMessage() - CORE/Cake/Error/ExceptionRenderer.php, line 276
+ExceptionRenderer::error400() - CORE/Cake/Error/ExceptionRenderer.php, line 222
+ExceptionRenderer::render() - CORE/Cake/Error/ExceptionRenderer.php, line 178
+ErrorHandler::handleException() - CORE/Cake/Error/ErrorHandler.php, line 122
+[main] - [internal], line ??
+
+2015-01-22 13:31:46 Notice: Notice (8): Undefined variable: accessViewType in [/web/openemis-school/app/View/Elements/layout/left_navigation.ctp, line 107]
+Trace:
+include - APP/View/Elements/layout/left_navigation.ctp, line 107
+View::_evaluate() - CORE/Cake/View/View.php, line 931
+View::_render() - CORE/Cake/View/View.php, line 893
+View::_renderElement() - CORE/Cake/View/View.php, line 1191
+View::element() - CORE/Cake/View/View.php, line 408
+include - APP/View/Layouts/default.ctp, line 70
+View::_evaluate() - CORE/Cake/View/View.php, line 931
+View::_render() - CORE/Cake/View/View.php, line 893
+View::renderLayout() - CORE/Cake/View/View.php, line 525
+View::render() - CORE/Cake/View/View.php, line 470
+Controller::render() - CORE/Cake/Controller/Controller.php, line 952
+ExceptionRenderer::_outputMessage() - CORE/Cake/Error/ExceptionRenderer.php, line 276
+ExceptionRenderer::error400() - CORE/Cake/Error/ExceptionRenderer.php, line 222
+ExceptionRenderer::render() - CORE/Cake/Error/ExceptionRenderer.php, line 178
+ErrorHandler::handleException() - CORE/Cake/Error/ErrorHandler.php, line 122
+[main] - [internal], line ??
+
+2015-01-22 13:31:49 Notice: Notice (8): Undefined index: InstitutionSite in [/web/openemis-school/app/View/Dashboard/index.ctp, line 21]
+Trace:
+include - APP/View/Dashboard/index.ctp, line 21
+View::_evaluate() - CORE/Cake/View/View.php, line 931
+View::_render() - CORE/Cake/View/View.php, line 893
+View::render() - CORE/Cake/View/View.php, line 462
+Controller::render() - CORE/Cake/Controller/Controller.php, line 952
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 110
+
+2015-01-22 13:31:49 Notice: Notice (8): Undefined index: InstitutionSite in [/web/openemis-school/app/View/Dashboard/index.ctp, line 21]
+Trace:
+include - APP/View/Dashboard/index.ctp, line 21
+View::_evaluate() - CORE/Cake/View/View.php, line 931
+View::_render() - CORE/Cake/View/View.php, line 893
+View::render() - CORE/Cake/View/View.php, line 462
+Controller::render() - CORE/Cake/Controller/Controller.php, line 952
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 110
+
+2015-01-22 13:31:49 Notice: Notice (8): Undefined index: InstitutionSite in [/web/openemis-school/app/View/Dashboard/index.ctp, line 25]
+Trace:
+include - APP/View/Dashboard/index.ctp, line 25
+View::_evaluate() - CORE/Cake/View/View.php, line 931
+View::_render() - CORE/Cake/View/View.php, line 893
+View::render() - CORE/Cake/View/View.php, line 462
+Controller::render() - CORE/Cake/Controller/Controller.php, line 952
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 110
+
+2015-01-22 13:31:49 Notice: Notice (8): Undefined index: InstitutionSite in [/web/openemis-school/app/View/Dashboard/index.ctp, line 49]
+Trace:
+include - APP/View/Dashboard/index.ctp, line 49
+View::_evaluate() - CORE/Cake/View/View.php, line 931
+View::_render() - CORE/Cake/View/View.php, line 893
+View::render() - CORE/Cake/View/View.php, line 462
+Controller::render() - CORE/Cake/Controller/Controller.php, line 952
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 110
+
+2015-01-22 13:31:49 Notice: Notice (8): Undefined index: InstitutionSite in [/web/openemis-school/app/View/Dashboard/index.ctp, line 49]
+Trace:
+include - APP/View/Dashboard/index.ctp, line 49
+View::_evaluate() - CORE/Cake/View/View.php, line 931
+View::_render() - CORE/Cake/View/View.php, line 893
+View::render() - CORE/Cake/View/View.php, line 462
+Controller::render() - CORE/Cake/Controller/Controller.php, line 952
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 110
+
+2015-01-22 13:31:49 Notice: Notice (8): Undefined index: Country in [/web/openemis-school/app/View/Dashboard/index.ctp, line 49]
+Trace:
+include - APP/View/Dashboard/index.ctp, line 49
+View::_evaluate() - CORE/Cake/View/View.php, line 931
+View::_render() - CORE/Cake/View/View.php, line 893
+View::render() - CORE/Cake/View/View.php, line 462
+Controller::render() - CORE/Cake/Controller/Controller.php, line 952
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 110
+
+2015-01-22 13:31:49 Notice: Notice (8): Undefined index: InstitutionSite in [/web/openemis-school/app/View/Dashboard/index.ctp, line 49]
+Trace:
+include - APP/View/Dashboard/index.ctp, line 49
+View::_evaluate() - CORE/Cake/View/View.php, line 931
+View::_render() - CORE/Cake/View/View.php, line 893
+View::render() - CORE/Cake/View/View.php, line 462
+Controller::render() - CORE/Cake/Controller/Controller.php, line 952
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 110
+
+2015-01-22 13:31:49 Notice: Notice (8): Undefined index: InstitutionSite in [/web/openemis-school/app/View/Dashboard/index.ctp, line 49]
+Trace:
+include - APP/View/Dashboard/index.ctp, line 49
+View::_evaluate() - CORE/Cake/View/View.php, line 931
+View::_render() - CORE/Cake/View/View.php, line 893
+View::render() - CORE/Cake/View/View.php, line 462
+Controller::render() - CORE/Cake/Controller/Controller.php, line 952
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 110
+
+2015-01-22 13:31:49 Notice: Notice (8): Undefined index: InstitutionSite in [/web/openemis-school/app/View/Dashboard/index.ctp, line 49]
+Trace:
+include - APP/View/Dashboard/index.ctp, line 49
+View::_evaluate() - CORE/Cake/View/View.php, line 931
+View::_render() - CORE/Cake/View/View.php, line 893
+View::render() - CORE/Cake/View/View.php, line 462
+Controller::render() - CORE/Cake/Controller/Controller.php, line 952
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 110
+
+2015-01-22 13:31:49 Notice: Notice (8): Undefined index: InstitutionSite in [/web/openemis-school/app/View/Dashboard/index.ctp, line 49]
+Trace:
+include - APP/View/Dashboard/index.ctp, line 49
+View::_evaluate() - CORE/Cake/View/View.php, line 931
+View::_render() - CORE/Cake/View/View.php, line 893
+View::render() - CORE/Cake/View/View.php, line 462
+Controller::render() - CORE/Cake/Controller/Controller.php, line 952
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 110
+
+2015-01-22 13:31:49 Notice: Notice (8): Undefined index: InstitutionSite in [/web/openemis-school/app/View/Dashboard/index.ctp, line 49]
+Trace:
+include - APP/View/Dashboard/index.ctp, line 49
+View::_evaluate() - CORE/Cake/View/View.php, line 931
+View::_render() - CORE/Cake/View/View.php, line 893
+View::render() - CORE/Cake/View/View.php, line 462
+Controller::render() - CORE/Cake/Controller/Controller.php, line 952
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 110
+
+2015-01-22 13:31:49 Notice: Notice (8): Undefined index: InstitutionSite in [/web/openemis-school/app/View/Dashboard/index.ctp, line 49]
+Trace:
+include - APP/View/Dashboard/index.ctp, line 49
+View::_evaluate() - CORE/Cake/View/View.php, line 931
+View::_render() - CORE/Cake/View/View.php, line 893
+View::render() - CORE/Cake/View/View.php, line 462
+Controller::render() - CORE/Cake/Controller/Controller.php, line 952
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 110
+
+2015-01-22 13:31:49 Notice: Notice (8): Undefined index: InstitutionSite in [/web/openemis-school/app/View/Dashboard/index.ctp, line 49]
+Trace:
+include - APP/View/Dashboard/index.ctp, line 49
+View::_evaluate() - CORE/Cake/View/View.php, line 931
+View::_render() - CORE/Cake/View/View.php, line 893
+View::render() - CORE/Cake/View/View.php, line 462
+Controller::render() - CORE/Cake/Controller/Controller.php, line 952
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 110
+
+2015-01-22 13:31:49 Notice: Notice (8): Undefined index: InstitutionSite in [/web/openemis-school/app/View/Dashboard/index.ctp, line 49]
+Trace:
+include - APP/View/Dashboard/index.ctp, line 49
+View::_evaluate() - CORE/Cake/View/View.php, line 931
+View::_render() - CORE/Cake/View/View.php, line 893
+View::render() - CORE/Cake/View/View.php, line 462
+Controller::render() - CORE/Cake/Controller/Controller.php, line 952
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 110
+
+2015-01-22 13:31:49 Notice: Notice (8): Undefined index: InstitutionSite in [/web/openemis-school/app/View/Dashboard/index.ctp, line 49]
+Trace:
+include - APP/View/Dashboard/index.ctp, line 49
+View::_evaluate() - CORE/Cake/View/View.php, line 931
+View::_render() - CORE/Cake/View/View.php, line 893
+View::render() - CORE/Cake/View/View.php, line 462
+Controller::render() - CORE/Cake/Controller/Controller.php, line 952
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 110
+
+2015-01-22 13:31:49 Notice: Notice (8): Undefined index: InstitutionSite in [/web/openemis-school/app/View/Dashboard/index.ctp, line 49]
+Trace:
+include - APP/View/Dashboard/index.ctp, line 49
+View::_evaluate() - CORE/Cake/View/View.php, line 931
+View::_render() - CORE/Cake/View/View.php, line 893
+View::render() - CORE/Cake/View/View.php, line 462
+Controller::render() - CORE/Cake/Controller/Controller.php, line 952
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 110
+
+2015-01-22 13:31:49 Notice: Notice (8): Undefined index: InstitutionSite in [/web/openemis-school/app/View/Dashboard/index.ctp, line 49]
+Trace:
+include - APP/View/Dashboard/index.ctp, line 49
+View::_evaluate() - CORE/Cake/View/View.php, line 931
+View::_render() - CORE/Cake/View/View.php, line 893
+View::render() - CORE/Cake/View/View.php, line 462
+Controller::render() - CORE/Cake/Controller/Controller.php, line 952
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 110
+
+2015-01-22 13:31:50 Notice: Notice (8): Undefined index: InstitutionSite in [/web/openemis-school/app/View/Dashboard/view_map.ctp, line 1]
+Trace:
+include - APP/View/Dashboard/view_map.ctp, line 1
+View::_evaluate() - CORE/Cake/View/View.php, line 931
+View::_render() - CORE/Cake/View/View.php, line 893
+View::render() - CORE/Cake/View/View.php, line 462
+Controller::render() - CORE/Cake/Controller/Controller.php, line 952
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 110
+
